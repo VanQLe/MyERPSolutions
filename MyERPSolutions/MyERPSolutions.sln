@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyERPSolutions", "MyERPSolutions\MyERPSolutions.csproj", "{EEAB53FD-26C3-451F-98BF-8452207A43F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyERPSolutions", "MyERPSolutions\MyERPSolutions.csproj", "{EEAB53FD-26C3-451F-98BF-8452207A43F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyERPSolutions.PrideTek.Core", "MyERPSolutions.PrideTek.Core\MyERPSolutions.PrideTek.Core.csproj", "{0B03D447-1E53-4A36-B993-A43BEC56D6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyERPSolutions.PrideTek.Dao", "MyERPSolutions.PrideTek.Dao\MyERPSolutions.PrideTek.Dao.csproj", "{DA69E431-D26B-40E0-8A0F-47A69B427952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyERPSolutions.PrideTek.Models", "MyERPSolutions.PrideTek.Models\MyERPSolutions.PrideTek.Models.csproj", "{31240A24-0D15-43BC-8844-86032A305106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyERPSolutions.PrideTek.Services", "MyERPSolutions.PrideTek.Services\MyERPSolutions.PrideTek.Services.csproj", "{BF35406D-4EA3-45E3-BCB4-EE6C7247EC4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{EEAB53FD-26C3-451F-98BF-8452207A43F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEAB53FD-26C3-451F-98BF-8452207A43F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEAB53FD-26C3-451F-98BF-8452207A43F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B03D447-1E53-4A36-B993-A43BEC56D6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B03D447-1E53-4A36-B993-A43BEC56D6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B03D447-1E53-4A36-B993-A43BEC56D6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B03D447-1E53-4A36-B993-A43BEC56D6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA69E431-D26B-40E0-8A0F-47A69B427952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA69E431-D26B-40E0-8A0F-47A69B427952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA69E431-D26B-40E0-8A0F-47A69B427952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA69E431-D26B-40E0-8A0F-47A69B427952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31240A24-0D15-43BC-8844-86032A305106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31240A24-0D15-43BC-8844-86032A305106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31240A24-0D15-43BC-8844-86032A305106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31240A24-0D15-43BC-8844-86032A305106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF35406D-4EA3-45E3-BCB4-EE6C7247EC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF35406D-4EA3-45E3-BCB4-EE6C7247EC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF35406D-4EA3-45E3-BCB4-EE6C7247EC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF35406D-4EA3-45E3-BCB4-EE6C7247EC4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

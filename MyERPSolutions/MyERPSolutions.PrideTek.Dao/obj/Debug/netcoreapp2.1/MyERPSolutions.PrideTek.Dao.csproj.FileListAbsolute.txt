@@ -1,0 +1,5 @@
+C:\Users\Thi Cai\Desktop\C# Application\MyERP\MyERPSolutions\MyERPSolutions.PrideTek.Dao\bin\Debug\netcoreapp2.1\MyERPSolutions.PrideTek.Models.dll
+C:\Users\Thi Cai\Desktop\C# Application\MyERP\MyERPSolutions\MyERPSolutions.PrideTek.Dao\obj\Debug\netcoreapp2.1\MyERPSolutions.PrideTek.Dao.csprojAssemblyReference.cache
+C:\Users\Thi Cai\Desktop\C# Application\MyERP\MyERPSolutions\MyERPSolutions.PrideTek.Dao\obj\Debug\netcoreapp2.1\MyERPSolutions.PrideTek.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Thi Cai\Desktop\C# Application\MyERP\MyERPSolutions\MyERPSolutions.PrideTek.Dao\obj\Debug\netcoreapp2.1\MyERPSolutions.PrideTek.Dao.AssemblyInfoInputs.cache
+C:\Users\Thi Cai\Desktop\C# Application\MyERP\MyERPSolutions\MyERPSolutions.PrideTek.Dao\obj\Debug\netcoreapp2.1\MyERPSolutions.PrideTek.Dao.AssemblyInfo.cs
