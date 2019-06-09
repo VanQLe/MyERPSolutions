@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyERPSolutions.PrideTek.Dao\MyERPSolutions.PrideTek.Dao.csproj" />
+    <ProjectReference Include="..\MyERPSolutions.PrideTek.Models\MyERPSolutions.PrideTek.Models.csproj" />
+  </ItemGroup>
+
 </Project>
